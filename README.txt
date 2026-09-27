@@ -11,7 +11,9 @@ URL: https://drive.google.com/file/d/1EOPOsqNOXHT2CBUsKQ3k74jShCuzWZiI/view?usp=
 ゲームタイトル：リバーシ
 開発環境：学校配布エンジン（C＋＋）
 開発人数：１人
+動作環境：Windows
 開発期間：一ヶ月
+
 担当箇所：すべて
 
 ーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー
