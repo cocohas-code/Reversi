@@ -40,7 +40,7 @@ void  MyGameMain_Initialize()
 	ge->mouse = XI::Mouse::Create(ge->viewScaleW, ge->viewScaleH);
 
 	actTask = TaskFlag::Non;	//初期状態は実行中のタスクを無効にしておく
-	nextTask = TaskFlag::Game;	//次のタスクをタイトルにすることで最初にタイトルが実行される
+	nextTask = TaskFlag::Title;	//次のタスクをタイトルにすることで最初にタイトルが実行される
 	ge->dgi->EffectState().param.bgColor = ML::Color(0, 0, 0, 0);
 }
 //-----------------------------------------------------------------------------
